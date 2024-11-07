@@ -1,2 +1,4 @@
-# linuxprojectminor
+#linuxproject(minor)
 My name is Aakash Thapliyal, Uid: 24MCC20027, this is my linux project(minor project), which is a password generator using shell scripts 
+Password security is a critical aspect of digital security practices. Using complex, unpredictable passwords helps to protect sensitive data from unauthorized access. This project demonstrates a simple method to generate secure passwords using shell scripting in Linux, which relies on the randomness provided by /dev/urandom, a pseudo-random number generator. The script filters characters to include only alphanumeric characters for readability and versatility.
+The main objective of this project is to create a shell script that generates a secure, random password of a specified length. This script will prompt the user to enter the desired password length and generate a random alphanumeric password based on the user's input. It serves as a simple but effective way to create strong passwords for secure systems.
